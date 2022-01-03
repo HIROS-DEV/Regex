@@ -59,7 +59,7 @@ It accepts "hll" or "hllo" or "hell" or "hello"
 ex: /car./
 It accepts "car@" or "cas" or "car5" or etc.etc.
 
-10. If I would like to use special characters for just special characters, I have to use special characters with back slash.
+10. If I would like to use special characters as just special characters, I have to use special characters with back slash.
 
 ex: /abc\*/ === abc*
 ex2: /abc\./ === abc.
