@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=r6I-Ahc0HB4
 ## Purpose of the project
 
 Get the knowledge of Regex fundamentals.
-It is use Regex with Javascript.
+For using Regex with Javascript.
 
 ## Demo
 
@@ -34,6 +34,6 @@ And I wrote simple report in regex.md file.
 
 This Regex course is most useful course on this planet and it is not exaggeration.
 Of course, I can not Regex perfectly.
-But now, i have full confidence about Regex and I would like to use Regex in my project or to solve algorithm problem(like a CodeWars site).
+But now, I have full confidence about Regex and I would like to use Regex in my project or to solve algorithm problem(like a CodeWars site).
 
 Thank you for reading. And, happy coding!!!
